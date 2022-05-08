@@ -1,0 +1,5 @@
+
+
+*** Keywords ***
+AAA
+    Log    ${EMPTY}
